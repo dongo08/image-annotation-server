@@ -1,0 +1,5 @@
+fastapi>=0.136
+pillow>=12.0
+pydantic>=2.13
+uvicorn>=0.49
+pywhispercpp>=1.5
