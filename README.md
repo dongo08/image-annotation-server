@@ -68,7 +68,3 @@ with open("output.png", "wb") as f:
     f.write(resp.content)
 ```
 
-## 其他端点
-
-- `POST /transcribe` — Whisper 语音识别
-- `GET /health` — 健康检查
